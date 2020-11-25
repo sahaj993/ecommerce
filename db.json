@@ -1,11 +1,14 @@
 {
-  "posts": [
+  "products": [
     {
       "id": 1,
-      "title": "hello"
+      "title": "camera",
+      "price": 100
+    },
+    {
+      "id": 2,
+      "title": "phone",
+      "price": 200
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
